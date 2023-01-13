@@ -8,7 +8,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "91316083-00EE-46AB-9B51-5BE2260D1677"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Recipe List App/Services/DataService.swift"
@@ -18,6 +18,38 @@
             endingLineNumber = "17"
             landmarkName = "getLocalData()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91316083-00EE-46AB-9B51-5BE2260D1677 - 34d493c84139609"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Recipe_List_App.DataService.getLocalData() -&gt; Swift.Array&lt;Recipe_List_App.Recipe&gt;"
+                  moduleName = "Recipe List App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexeyli/Desktop/iOS%20Course/CodingWithChris/Recipe%20List%20App/Recipe%20List%20App/Services/DataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "247">
+               </Location>
+               <Location
+                  uuid = "91316083-00EE-46AB-9B51-5BE2260D1677 - 34d493c84139609"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Recipe_List_App.DataService.getLocalData() -&gt; Swift.Array&lt;Recipe_List_App.Recipe&gt;"
+                  moduleName = "Recipe List App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexeyli/Desktop/iOS%20Course/CodingWithChris/Recipe%20List%20App/Recipe%20List%20App/Services/DataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "535">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
